@@ -14,5 +14,5 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revelxd&show_icons=true&hide_border=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revelxd&layout=compact&hide_border=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revelxd&show_icons=true&hide_border=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revelxd&layout=compact&hide_border=true&theme=dark)  
